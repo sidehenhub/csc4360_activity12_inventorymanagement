@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491196931260",
+    "project_id": "activity12-inventorymanagement",
+    "storage_bucket": "activity12-inventorymanagement.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491196931260:android:5d18ed5c9948f064e5c4b9",
+        "android_client_info": {
+          "package_name": "com.example.inventorymanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArvjTouWOIrm1Xue5Yq17mnlFFgzYtUY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
